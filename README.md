@@ -2,6 +2,7 @@
 
 Enunciado: O Spotify pagou-te a ti e à tua equipa para desenvolverem uma aplicação que demonstre certos dados do histórico dos utilizadores.
 Os requisitos que estiveram marcados com [D] é porque deve ser possível fazer a pesquisa nos contextos: "nas últimas 4 semanas", "nos últimos 6 meses", "no último ano" ou "desde sempre".
+
 ---Estatísticas gerais de conta:---
 G1) Ver quantas plays no total.
 G2) Ver quantas músicas diferentes já foram ouvidas no total.
