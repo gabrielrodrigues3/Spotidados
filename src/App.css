@@ -260,8 +260,8 @@ nav {
 /* Focused or Active (selected) state */
 .button-group button:focus, 
 .button-group button:active {
-  outline: 3px solid #ff914d; /* Orange outline */
-  outline-offset: 2px; /* Offset the outline slightly */
+  outline: 3px solid #ff914d;
+  outline-offset: 2px;
 }
 
 

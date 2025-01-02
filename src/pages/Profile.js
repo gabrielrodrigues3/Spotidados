@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import data from '../data/sample.json'; // Importa o JSON
+import data from '../data/sample.json';
 import '../App.css';
 
 const Profile = () => {

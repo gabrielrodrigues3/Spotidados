@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import data from '../data/sample.json';
-import '../App.css'; // Ensure the CSS is imported
+import '../App.css';
 
 const MusicSearch = () => {
   const [artistName, setArtistName] = useState('');
